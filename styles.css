@@ -1,1 +1,27 @@
 /* Write your CSS here! */
+ #mainHeading{
+    background-color: red;
+
+}
+
+body {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+    
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+    background-color: rgb(208, 208, 219);
+}
+
+#school{
+    background: green;
+}
+#testP {
+    background-color: green;
+
+}
